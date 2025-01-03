@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav-bar{
+    color: black;
+    background-color: white;
+    padding: 20px;
+    font-size: larger;
+    display: block;
+    font-style: normal;
+    width: 100%;
+    margin: 0;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+.sub-con{
+    display: inline-block;
+    position: absolute;
+    right: 50px;
+    
+}
+span{
+    padding-right: 30px;
+}
+.hero{
+    width: 100%;
+    position: relative;
+    top: 60px;
+}
+.overlay{
+    display: inline-block;
+    position: absolute;
+    top: 320px;
+    left: 655px;
+    color: white;
+    font-size: xx-large;
+    font-style: normal;
+
+}
+b{
+    background-color: rgb(64, 66, 66);
+    color: white;
+    padding: 10px;
+}
+.project{
+    position: relative;
+    top: 70px;
+    /* bottom: 100px; */
+    font-size: x-large;
+    padding: 30px;
+    font-style: normal;
+}
+.main-con{
+    padding: 10px;
+    width: 100%;
+    position: relative;
+    left: 5px;
+    top: 20px;
+}
+.sub1, .sub2, .sub3, .sub4, .sub5, .sub6, .sub7, .sub8{
+    position: relative;
+    top: 50px;
+    display: inline-block;
+    padding: 5px;
+
+} 
+body{
+    margin: 0;
+}
+  p{
+    color: white;
+    padding: 10px;
+    background-color: black;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    margin: 0;
+  }
